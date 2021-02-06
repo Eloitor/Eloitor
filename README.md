@@ -2,14 +2,14 @@
 
 I'm Eloi Torrents
 
-## My projects:
-- A tiling window manager written in Zig
+## My projects (WIP):
+- A [tiling window manager written in Zig](github.com/Eloitor/ZigWindowManager)
 
-## Contributed projects:
-- Formality
+## Interesting projects in which I contribute:
+- [Formality](github.com/moonad/Formality)
+- [Barcelona-lean-seminar](https://github.com/mmasdeu/barcelonaleanseminar)
 
 ## I plan to contribute:
-- Barcelona-lean-seminar
 - Lean / Mathlib
 - Nixpkgs
 
