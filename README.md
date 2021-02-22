@@ -14,6 +14,7 @@ I'm Eloi Torrents
 - Nixpkgs
 
 ## My configuration files and the programs that I use:
+ - [My NixOS configuration](https://github.com/Eloitor/NixOS-config)
  - [My configuration files](https://github.com/Eloitor/dotfiles)
 
 <!--
