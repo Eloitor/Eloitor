@@ -13,6 +13,9 @@ I'm Eloi Torrents
 - Lean / Mathlib
 - Nixpkgs
 
+## My configuration files and the programs that I use:
+ - [My configuration files](https://github.com/Eloitor/dotfiles)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
