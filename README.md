@@ -6,7 +6,7 @@ I'm Eloi Torrents
 - A [tiling window manager written in Zig](github.com/Eloitor/ZigWindowManager)
 
 ## Interesting projects in which I contribute:
-- [Formality](github.com/moonad/Formality)
+- [Kind](github.com/moonad/Kind)
 - [Barcelona-lean-seminar](https://github.com/mmasdeu/barcelonaleanseminar)
 
 ## I plan to contribute:
