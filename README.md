@@ -8,11 +8,12 @@ I'm Eloi Torrents.
 ## Interesting projects in which I contribute:
 
 - [Barcelona-lean-seminar](https://github.com/mmasdeu/barcelonaleanseminar)
-- Proof of the Brower fixed point Theorem 
+- Proof of the Brouwer fixed point Theorem 
 - [Kind](github.com/moonad/Kind)
 
 ## I plan to contribute:
-- Lean / Mathlib
+
+- Mathlib. The math library of Lean.
 
 
 ## My configuration files and programs that I use:
