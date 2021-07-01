@@ -32,7 +32,7 @@ I'm Eloi Torrents.
 -->
 
 <p align = "left">
-  <a href="https://github.com/VivekThazhathattil">
+  <a href="https://github.com/Eloitor">
     <img src = "https://github-readme-stats.vercel.app/api?username=Eloitor&show_icons=true&theme=dark&line_height=27&include_all_commits=true">
   </a>
 </p>
