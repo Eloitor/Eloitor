@@ -30,3 +30,9 @@ I'm Eloi Torrents.
 - ⚡ Fun fact: ...
 - ⚡ Fun fact
 -->
+
+<p align = "left">
+  <a href="https://github.com/VivekThazhathattil">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Eloitor&show_icons=true&theme=dark&line_height=27&include_all_commits=true">
+  </a>
+</p>
