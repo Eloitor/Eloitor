@@ -2,21 +2,21 @@
 
 I'm Eloi Torrents.
 
-## My projects (WIP):
+** My projects (WIP):
 - A [tiling window manager written in Zig](github.com/Eloitor/ZigWindowManager)
 
-## Interesting projects in which I contribute:
+*** Interesting projects in which I contribute:
 
 - [Barcelona-lean-seminar](https://github.com/mmasdeu/barcelonaleanseminar)
 - Proof of the Brouwer fixed point Theorem 
 - [Kind](github.com/moonad/Kind)
 
-## I plan to contribute:
+** I plan to contribute:
 
 - Mathlib. The math library of Lean.
 
 
-## My configuration files and programs that I use:
+** My configuration files and programs that I use:
 
  - [My configuration files](https://github.com/Eloitor/dotfiles)
 
