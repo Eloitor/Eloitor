@@ -2,10 +2,6 @@
 
 I'm Eloi Torrents.
 
-## My configuration files and programs that I use:
-
- - [My configuration files](https://github.com/Eloitor/dotfiles)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
