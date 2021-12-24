@@ -6,7 +6,7 @@ I collected some links from the web.
 xkcd: https://xkcd.com/  
 sooner or later you will need: https://www.explainxkcd.com
 
-## Free static web hosting:
+## Free static web hosting
 
 Github pages: https://pages.github.com/  
 Codeberg pages: https://docs.codeberg.org/codeberg-pages/  
