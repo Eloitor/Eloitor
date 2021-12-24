@@ -1,6 +1,6 @@
 # Hi there! ✨
 
-I collected some links form the web.
+I collected some links from the web.
 
 ## Jokes :)
 xkcd: https://xkcd.com/
