@@ -3,8 +3,7 @@
 I collected some links from the web.
 
 ## Jokes :)
-xkcd: https://xkcd.com/  
-sooner or later you will need: https://www.explainxkcd.com
+xkcd: https://xkcd.com/ (https://www.explainxkcd.com)
 
 ## Free static web hosting
 
