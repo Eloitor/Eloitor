@@ -32,8 +32,8 @@ Xena Project blog posts: https://xenaproject.wordpress.com/
 
 ## Templates
 
-Start a lean project: https://github.com/Eloitor/Lean-template  
-Start a lean game project: https://github.com/mmasdeu/topologygame
+lean project: https://github.com/Eloitor/Lean-template  
+lean game project: https://github.com/mmasdeu/topologygame
 
 
 <!--
