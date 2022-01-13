@@ -1,5 +1,7 @@
 # Hi there! ✨
 
+<!--
+
 I collected some links from the web.
 
 ### Jokes :)
@@ -34,6 +36,7 @@ Xena Project blog posts: https://xenaproject.wordpress.com/
 lean project: https://github.com/Eloitor/Lean-template  
 lean game project: https://github.com/mmasdeu/topologygame
 
+-->
 
 <!--
 - 🔭 I’m currently working on ...
