@@ -1,5 +1,7 @@
 # Hi there! ✨
 
+https://sneak.berlin/20200307/the-case-against-microsoft-and-github/
+
 <!--
 
 I collected some links from the web.
